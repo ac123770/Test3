@@ -1,0 +1,3 @@
+This is just a warmup exercise! 
+
+Flag: 0000
